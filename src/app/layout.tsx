@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "CryptoKebi",
+  title: "Crypto price",
   description: "Search the top 100 ranked Cryptocurrencies in real time.",
 };
 
